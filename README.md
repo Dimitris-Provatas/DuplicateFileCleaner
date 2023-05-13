@@ -12,7 +12,8 @@ This project was created because I wanted to clear around 11K of images that con
 This project now parses 10K images in less than a minute and I want to find a way to multithread it so it will be even faster.
 
 ## TODOs
-[X] Make it work
-[] Multithreading
-[] Document code
-[] Make the production executable less than 11MB!
+
+- [X] Make it work
+- [] Multithreading
+- [] Document code
+- [] Make the production executable less than 11MB!
