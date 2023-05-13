@@ -1,6 +1,6 @@
 # Rust Duplicate File Cleaner
 
-![build workflow](https://github.com/Dimitris-Provatas/DuplicateFileCleaner/actions/workflows/rust.yml/badge.svg)
+![linux build workflow](https://github.com/Dimitris-Provatas/DuplicateFileCleaner/actions/workflows/Linux_Build.yml/badge.svg)
 
 Simple project to clear duplicate files from a directory, written in Rust.
 
